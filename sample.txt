@@ -1,4 +1,1 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
-add: Đăng ký thay đổi trong index 1
-add: Đăng ký thay đổi trong index 2
-add: dang ki tahy doi 3
