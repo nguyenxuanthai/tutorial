@@ -1,3 +1,4 @@
+
 Đến cả con khỉ cũng hiểu được lệnh Git
 add: Đăng ký thay đổi trong index 1
 add: Đăng ký thay đổi trong index 2
@@ -6,3 +7,11 @@ vai~ ca? lenh`, moi~ nhanh' 1 kieu? khac' nhau.
 Eo' the? tin noi?.
 Thac. na` vi dieu.
 ngay 03/07/2017
+
+
+//	Hoang tung lam
+// 	day la file sample.txt o tutorial 2
+//	Loi conflict
+//Day la file sample o tutorial
+//hoang tung lam
+
